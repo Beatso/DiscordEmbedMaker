@@ -22,7 +22,7 @@ const RateLimit = require('express-rate-limit');
 const htmlEncode = require("htmlencode").htmlEncode;
 
 const PORT = 8001;
-const WEBSITE_ROOT_URL = "https://em.my.to";
+const WEBSITE_ROOT_URL = "https://discordembedmaker.beatso1.repl.co";
 const LINK_EXPIRE = 300; // Seconds
 const EXPIRED_LINK_DELETE_INTERVAL = 60; // Seconds
 const LINK_CREATE_RATE_LIMIT_INTERVAL = 60; // Seconds
