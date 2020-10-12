@@ -1,5 +1,5 @@
 {
-  "name": "discordsafeembed",
+  "name": "discordembedmaker",
   "version": "0.1.0",
   "description": "A web server that allows embedding in Discord based on URL.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mega-Mewthree/DiscordSafeEmbed.git"
+    "url": "git+https://github.com/Beatso/DiscordEmbedMaker.git"
   },
-  "author": "Mega-Mewthree <nebuladevs@gmail.com> (https://github.com/Mega-Mewthree)",
+  "author": "Beatso (https://github.com/Beatso)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Mega-Mewthree/DiscordSafeEmbed/issues"
+    "url": "https://github.com/Beatso/DiscordEmbedMaker/issues"
   },
-  "homepage": "https://github.com/Mega-Mewthree/DiscordSafeEmbed#readme",
+  "homepage": "https://github.com/Beatso/DiscordEmbedMaker#readme",
   "dependencies": {
     "express": "^4.16.3",
     "express-rate-limit": "^2.11.0",
