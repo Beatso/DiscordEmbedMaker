@@ -1,4 +1,4 @@
-# DiscordSafeEmbed
+# DiscordEmbedMaker
 A web server that allows embedding in Discord based on URL.
 
 Embed website: https://discordembedmaker.beatso1.repl.co/
