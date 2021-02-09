@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Beatso/DiscordEmbedMaker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-rate-limit": "^2.11.0",
+    "express-rate-limit": "^5.2.5",
     "htmlencode": "0.0.4"
   }
 }
